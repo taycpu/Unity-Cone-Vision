@@ -1,6 +1,6 @@
 # Unity-Cone-Vision
 Unity cone vision system.
-![On Scene View](https://github.com/taycpu/Unity-Cone-Vision/ConeVision.png)
+![On Scene View](https://github.com/taycpu/Unity-Cone-Vision/blob/main/ConeVision.png)
 
 ## What is this?
 This is a cone vision system for entities like enemy.
@@ -12,5 +12,5 @@ Use event callbacks for actions.
 
 Don't forget to add FieldOfViewEnemy component to your entity.
 
-![Component](https://github.com/taycpu/Unity-Cone-Vision/FOVEnemy.png)
+![Component](https://github.com/taycpu/Unity-Cone-Vision/blob/main/FOVEnemy.png)
 
